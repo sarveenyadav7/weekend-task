@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-color: rgba(35, 111, 33, 0.3);
+}
+.container{
+    width: 1024px;
+    height: 260vh;
+    margin: 0 auto;
+}
+.row-1{
+    width: 100%;
+    height: 350px;
+    float: left;
+    background-image: url(Images/profile.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.row-1 h1{
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 0.9;
+}
+.row-1 h6{
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 5;
+}
+.row-1 p{
+    font-size: 13px;
+    line-height: 1;
+    font-weight: 600;
+}
+.mid-col{
+    width: 400px;
+    height: auto;
+    float: left;
+    text-align: center;
+    color: white;
+}
+.shadow{
+    width: 100%;
+    height: 100%;
+    float: left;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col-1{
+    width: 43%;
+    height: 400px;
+    float: left;
+    margin: 3%;
+    background-image: url(Images/harvasting.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.shadow1{
+    width: 100%;
+    height: 100%;
+    float: left;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    padding: 30px;
+}
+.shadow1 h1{
+    line-height: 2;
+}
+.shadow1 p{
+    font-size: 15px;
+    font-weight: 500;
+}
+.col-2{
+    width: 43%;
+    height: 400px;
+    float: left;
+    margin: 3%;
+    margin-top: 12%;
+    background-image: url(Images/wheat.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.col-3{
+    width: 43%;
+    height: auto;
+    float: left;
+    margin: 3%;
+    margin-top: -8%;
+    color: white;
+}
+.sub-col1{
+    width: 44%;
+    height: 180px;
+    float: left;
+    margin-right: 12%;
+    background-image: url(Images/tea.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.sub-col2{
+    width: 44%;
+    height: 180px;
+    float: left;
+    background-image: url(Images/tea-img.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.shadow2{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.shadow2 p{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 2;
+    
+}
+.shadow2 h1{
+    font-size: 20px;
+    font-weight: 20px;
+}
+
+
+.col-4{
+    width: 43%;
+    height: 400px;
+    float: left;
+    margin: 3%;
+    margin-top: -0%;
+    background-image: url(Images/tools.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.col-5{
+    width: 43%;
+    height: 400px;
+    float: left;
+    margin: 3%;
+    margin-top: -29.5%;
+    background-image: url(Images/seasons.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.col-6{
+    width: 43%;
+    height: auto;
+    float: left;
+    margin: 3%;
+    margin-top: 0%;
+    color: white;
+}
+.sub-col3{
+    width: 44%;
+    height: 180px;
+    float: left;
+    margin-right: 12%;
+    background-image: url(Images/medicine.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.sub-col4{
+    width: 44%;
+    height: 180px;
+    float: left;
+    background-image: url(Images/spices.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
