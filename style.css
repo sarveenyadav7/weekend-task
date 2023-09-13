@@ -56,10 +56,10 @@ body{
     align-items: center;
 }
 .col-1{
-    width: 43%;
+    width: 48%;
     height: 400px;
     float: left;
-    margin: 3%;
+    margin: 1%;
     background-image: url(Images/harvasting.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -84,10 +84,10 @@ body{
     font-weight: 500;
 }
 .col-2{
-    width: 43%;
+    width: 48%;
     height: 400px;
     float: left;
-    margin: 3%;
+    margin: 1%;
     margin-top: 12%;
     background-image: url(Images/wheat.jpg);
     background-repeat: no-repeat;
@@ -95,10 +95,10 @@ body{
     position: relative;
 }
 .col-3{
-    width: 43%;
+    width: 48%;
     height: auto;
     float: left;
-    margin: 3%;
+    margin: 1%;
     margin-top: -8%;
     color: white;
 }
@@ -143,10 +143,10 @@ body{
 
 
 .col-4{
-    width: 43%;
+    width: 48%;
     height: 400px;
     float: left;
-    margin: 3%;
+    margin: 1%;
     margin-top: -0%;
     background-image: url(Images/tools.jpg);
     background-repeat: no-repeat;
@@ -154,10 +154,10 @@ body{
     position: relative;
 }
 .col-5{
-    width: 43%;
+    width: 48%;
     height: 400px;
     float: left;
-    margin: 3%;
+    margin: 1%;
     margin-top: -29.5%;
     background-image: url(Images/seasons.jpeg);
     background-repeat: no-repeat;
@@ -166,10 +166,10 @@ body{
 }
 
 .col-6{
-    width: 43%;
+    width: 48%;
     height: auto;
     float: left;
-    margin: 3%;
+    margin: 1%;
     margin-top: 0%;
     color: white;
 }
